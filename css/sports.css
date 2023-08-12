@@ -446,15 +446,15 @@ hr{
     border: 3px black solid;
 }
 #NFL{
-    background-image: URL(../images/NFLbackground.jpg);
+    background-image: url(../images/NFLbackground.jpg);
     /* text-align: center; */
 }
 #NBA{
-    background-image: URL(../images/NBAbackground.jpg);
+    background-image: url(../images/NBAbackground.jpg);
     /* text-align: center; */
 } 
 #Soccer{
-    background-image: URL(../images/Soccerbackground.jpg);
+    background-image: url(../images/Soccerbackground.jpg);
     /* text-align: center; */
 } 
 @media(max-width:768px) {
