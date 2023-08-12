@@ -344,14 +344,14 @@ hr{
     border: 3px black solid;
 }
 #Marvel{
-    background-image: url(/images/marvelbackground.jpg);
+    background-image: url(../images/marvelbackground.jpg);
     /* text-align: center; */
 }
 #DcComics{
-    background-image: url(/images/dccomicsbackground.jpg);
+    background-image: url(../images/dccomicsbackground.jpg);
 } 
 #Transformer{
-    background-image: url(/images/transformerbackground.jpg);
+    background-image: url(../images/transformerbackground.jpg);
 }
 @media(max-width:768px) {
     .book_container{
