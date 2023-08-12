@@ -221,10 +221,10 @@ nav .content{
     border: 3px black solid;
 }
 #categoryOne{
-    background-image: url(images/superheroesbackground.jpg);
+    background-image: URL(../images/superheroesbackground.jpg);
 }
 #categoryTwo{
-    background-image: url(images/sportbackground1.jpg);
+    background-image: URL(../images/sportbackground1.jpg);
 }
 .footer {
     background: black;
