@@ -422,7 +422,7 @@ hr{
         border-radius: 5px;
     }
     .button{
-        width: 100%;
+        width: max-content;
         margin-left: auto;
         margin-right: auto; 
     }
