@@ -267,7 +267,7 @@ header nav ul li a{
     font-family: monospace;
     font-size: 25px;
     background-color:white;
-    background-image: url(/images/superheroesbackground.jpg);
+    background-image: url(images/superheroesbackground.jpg);
     background-size: 100%;
     padding-top: 5px;
     border-top: 3px solid black;
@@ -341,7 +341,7 @@ header nav ul li a{
     font-size: 25px;
     background-color:white;
     padding-top: 5px;
-    background-image: url(/images/sportbackground1.jpg);
+    background-image: url(images/sportbackground1.jpg);
     background-size: 100%;
     border-top: 3px solid black;
     border-bottom: 3px solid black;
@@ -446,15 +446,15 @@ hr{
     border: 3px black solid;
 }
 #NFL{
-    background-image: url(/images/NFLbackground.jpg);
+    background-image: url(images/NFLbackground.jpg);
     /* text-align: center; */
 }
 #NBA{
-    background-image: url(/images/NBAbackground.jpg);
+    background-image: url(images/NBAbackground.jpg);
     /* text-align: center; */
 } 
 #Soccer{
-    background-image: url(/images/Soccerbackground.jpg);
+    background-image: url(images/Soccerbackground.jpg);
     /* text-align: center; */
 } 
 @media(max-width:768px) {
