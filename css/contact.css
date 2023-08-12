@@ -177,7 +177,7 @@ body{
 .underlined:hover::after {
     transform: scaleX(1);
 }
-.footer-theme {
+.footer {
     background: black;
     box-sizing: border-box;
     width: 100%;
@@ -190,7 +190,7 @@ body{
     margin-right: auto;
     width: max-content;
 }
-.footer-theme .footer_links a {
+.footer .footer_links a {
     display:inline-block;
     line-height: 1.8;
     font-weight: bold;
@@ -334,12 +334,12 @@ hr{
     header .space{
         width: 0px;
     }
-    .footer-theme .footer_links{
+    .footer .footer_links{
         width: max-content;
         margin-left: auto;
         margin-right: auto;
     }
-    .footer-theme .footer_links a{
+    .footer .footer_links a{
         font-size: 8px;
     }
     .contact_form{
